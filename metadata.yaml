@@ -1,0 +1,34 @@
+_repo: The-Maid-At-Arms--A-Novel_12279
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Maid-At-Arms: A Novel'
+url: http://www.gutenberg.org/ebooks/12279
